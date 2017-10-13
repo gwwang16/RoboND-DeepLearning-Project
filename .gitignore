@@ -2,8 +2,8 @@
 .gitattributes
 __pycache__
 
-/code/.ipynb_checkpoints
-/data/runs
+code/.ipynb_checkpoints
+data/runs
 
 .pylintrc
 save.data-00000-of-00001
