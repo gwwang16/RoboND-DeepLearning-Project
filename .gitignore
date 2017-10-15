@@ -1,6 +1,12 @@
 *.gitignore
 .gitattributes
-/code/img_cleaner.py
-/code/.ipynb_checkpoints
-/code/utils/__pycache__
-/data/runs
+
+writeup.md
+
+code/img_cleaner.py
+code/.ipynb_checkpoints
+code/utils/__pycache__
+
+data/runs
+data/processed_sim_data
+data/raw_sim_data
