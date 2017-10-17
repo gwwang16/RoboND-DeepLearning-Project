@@ -9,3 +9,5 @@ code/utils/__pycache__
 data/runs
 data/processed_sim_data
 data/raw_sim_data
+
+docs/report
