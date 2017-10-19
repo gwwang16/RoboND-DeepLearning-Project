@@ -1,7 +1,5 @@
-*.gitignore
 .gitattributes
-
-writeup.md
+.vscode
 
 code/.ipynb_checkpoints
 code/utils/__pycache__
