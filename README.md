@@ -4,6 +4,8 @@
 
 In this project, you will train a deep neural network to identify and track a target in simulation. So-called “follow me” applications like this are key to many fields of robotics and the very same techniques you apply here could be extended to scenarios like advanced cruise control in autonomous vehicles or human-robot collaboration in industry.
 
+Follow me video: https://youtu.be/lW9NUOR8TUY
+
 [image_0]: ./docs/misc/sim_screenshot.png
 ![alt text][image_0] 
 
@@ -74,12 +76,12 @@ data/raw_sim_data/validation/run1
 1. Run QuadSim
 2. Click the `DL Training` button
 3. Set patrol points, path points, and spawn points. **TODO** add link to data collection doc
-3. With the simulator running, press "r" to begin recording.
-4. In the file selection menu navigate to the `data/raw_sim_data/train/run1` directory
-5. **optional** to speed up data collection, press "9" (1-9 will slow down collection speed)
-6. When you have finished collecting data, hit "r" to stop recording.
-7. To reset the simulator, hit "`<esc>`"
-8. To collect multiple runs create directories `data/raw_sim_data/train/run2`, `data/raw_sim_data/train/run3` and repeat the above steps.
+4. With the simulator running, press "r" to begin recording.
+5. In the file selection menu navigate to the `data/raw_sim_data/train/run1` directory
+6. **optional** to speed up data collection, press "9" (1-9 will slow down collection speed)
+7. When you have finished collecting data, hit "r" to stop recording.
+8. To reset the simulator, hit "`<esc>`"
+9. To collect multiple runs create directories `data/raw_sim_data/train/run2`, `data/raw_sim_data/train/run3` and repeat the above steps.
 
 
 ### Validation Set ###
